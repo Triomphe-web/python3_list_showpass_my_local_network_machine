@@ -1,5 +1,5 @@
 readme.html
 .idea
-scapy_scan_network.py
+sfc_scannow.py
 showPassPythonWireless.py
 .gitignore
